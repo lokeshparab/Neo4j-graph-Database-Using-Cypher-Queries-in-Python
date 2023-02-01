@@ -12,9 +12,11 @@ This is Demo of Neo4j graph Database and demonstrate cypher query and display gr
 
 ## Minimum Requirements Neo4j Graph Desktop
 
-1. Operating System: 64-bit versions of Windows, macOS, or Linux.
-2. Memory: At least 4 GB of RAM. More memory is recommended for larger datasets and high performance workloads.
-3. Disk Space: At least 200 MB of available disk space. The actual amount of disk space required will depend on the size of your graph database.
+| Requirements     | Description|
+|------------------|------------|
+| OS               | 64-bit versions of Windows, macOS, or Linux.| 
+| Memory           | At least 4 GB of RAM. More memory is recommended for larger datasets and high performance workloads.|
+| Disk Space       | At least 200 MB of available disk space. The actual amount of disk space required will depend on the size of your graph database.|
 
 ## Pre- Requist Neo4j Graphs
 
