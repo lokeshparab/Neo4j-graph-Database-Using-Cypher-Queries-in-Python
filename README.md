@@ -8,7 +8,8 @@ This is Demo of Neo4j graph Database and demonstrate cypher query and display gr
 3. Downloading processing will start and give you license key to active Neo4j 
 4. Accpet all term and condition and paste the license key . It will take 5 mins to install . Fianlly Get to go
 5. From the main menu, click the "New Graph" button to create a new database **OR** click the "Open Graph" button to access an existing database.
-6. By Default Neo4j Desktop Gives Movie Database which I have used here in this Notebook
+
+**Note : By Default Neo4j Desktop Gives Movie Database which I have used here in this Notebook**
 
 ## Minimum Requirements Neo4j Graph Desktop
 
